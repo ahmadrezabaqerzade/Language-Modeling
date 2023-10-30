@@ -46,7 +46,7 @@ Below, you can see the final result:
 In this year <span style="color: red;"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
 
 This recommend ed appr oach helps prevent potential issues related to com-
-putational graph tracking <span style="color: red;"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
+putational graph tracking <span style="color: red;"> _, as he was in the first game of the season , and he was named the team ’ s captain ._ </span>
 
 I think the movie <span style="color: red;"> was good. </span>
 
