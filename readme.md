@@ -1,10 +1,10 @@
 # Language Modeling
 
-In this project, I initially attempted to reduce perplexity on the WikiText2 dataset as much as possible using LSTM and simple regularizations, including weight decay and dropout incorporated into the LSTM.
+In this project, I initially attempted to reduce perplexity on the **WikiText2** dataset as much as possible using LSTM and simple regularizations, including weight decay and dropout incorporated into the LSTM.
 
 The hyperparameters were determined empirically through multiple training iterations and observing the obtained results, aiming to find their optimal values.
 
-In the second step, I tried to significantly reduce perplexity on the WikiText2 dataset by employing the techniques described in the research paper "Regularizing and Optimizing LSTM Language Models," known as AWD-LSTM (ASGD Weight-Dropped LSTM). Each regularization technique was implemented separately and then combined with the previous technique. The following list presents the implemented techniques:
+In the second step, I tried to significantly reduce perplexity on the WikiText2 dataset by employing the techniques described in the research paper **"Regularizing and Optimizing LSTM Language Models"**, known as **AWD-LSTM (ASGD Weight-Dropped LSTM)**. Each regularization technique was implemented separately and then combined with the previous technique. The following list presents the implemented techniques:
 
 1. Weight-Dropped LSTM
 2. NTASGD optimizer
