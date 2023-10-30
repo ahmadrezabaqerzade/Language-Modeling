@@ -55,5 +55,14 @@ The text generation results indicate that the model understands some of the init
 
 In this section, after multiple experiments with various techniques, a combination of techniques was used, which resulted in the best performance on the dataset. Due to the application of numerous regularizations, the training process improved, and the learning rate increased significantly as a result of using these techniques and gradient clipping. You can see the final result below:
 
+|parameters | perplexity(on validation)| perplexity(on test)|
+| :--: | :--: | :--: |
+|31.75M      | 80.27                    | 77.11              |
+
+## Generate:
+
+I think this movie **_is the most beautiful thing i’ve ever seen ._**
+
+
 The text generation results have improved compared to the previous model, and the model has also learned the rules better. However, it can be said that the model still cannot generate text at an excellent level. Text generation models using LSTM have less learning capability and capacity compared to other modern models such as transformers. Generally, these networks are not suitable for tasks with larger dimensions, and other approaches based on different networks should be used instead.
 
