@@ -41,15 +41,14 @@ Below, you can see the final result:
 |parameters | perplexity(on validation)| perplexity(on test)|
 | :--: | :--: | :--: |
 |24.8M      | 128.3                    | 121.7              |
-| :--: | :--: | :--: |
 
 ## Generate:
-In this year <span style="color: green"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
+In this year <span style="color: red"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
 
 This recommend ed appr oach helps prevent potential issues related to com-
-putational graph tracking <span style="color: green"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
+putational graph tracking <span style="color: red"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
 
-I think the movie <span style="color: green"> was good. </span>
+I think the movie <span style="color: red"> was good. </span>
 
 The text generation results indicate that the model understands some of the initial relationships between words and their meanings. However, it doesn't adhere well to grammatical rules, and the model still has weaknesses in generating high-quality text.
 
