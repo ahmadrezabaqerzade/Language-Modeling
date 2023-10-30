@@ -43,11 +43,11 @@ Below, you can see the final result:
 |24.8M      | 128.3                    | 121.7              |
 
 ## Generate:
-In this year <span style="color: red;"> , as he was in the first game of the season , and he was named the team ’ s captain . </span>
+In this year **, as he was in the first game of the season , and he was named the team ’ s captain .**
 
-This recommended approach helps prevent potential issues related to computational graph tracking ** _, as he was in the first game of the season , and he was named the team ’ s captain ._  ** 
+This recommended approach helps prevent potential issues related to computational graph tracking  **, as he was in the first game of the season , and he was named the team ’ s captain .**   
 
-I think the movie <span style="color: red;"> was good. </span>
+I think the movie **was good.**
 
 The text generation results indicate that the model understands some of the initial relationships between words and their meanings. However, it doesn't adhere well to grammatical rules, and the model still has weaknesses in generating high-quality text.
 
