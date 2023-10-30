@@ -18,7 +18,7 @@ In the second step, I tried to significantly reduce perplexity on the WikiText2 
 
 After going through all these steps, I attempted to select the best method and apply the best combination of techniques. The combination of the best techniques was determined based on experiments and multiple training iterations. Although not all techniques, including sentence length variation, were implemented in this project, I tried to incorporate most of the mentioned techniques from the research paper to improve the results.
 
-#Dependencies:
+# Dependencies:
 * Python: 3.10.12
 * torch: 2.0.1+cu118
 * torchtext: 0.15.2+cpu
